@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prg2",
+            "request": "launch",
+            "mainClass": "Prg2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Prg1",
+            "request": "launch",
+            "mainClass": "Prg1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        }
+    ]
+}
